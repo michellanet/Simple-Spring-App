@@ -1,0 +1,4 @@
+com\example\demo\controllers\ProductsRestController.class
+com\example\demo\DemoApplication.class
+com\example\demo\controllers\HomeController.class
+com\example\demo\models\Product.class
